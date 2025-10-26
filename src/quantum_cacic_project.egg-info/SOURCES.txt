@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/quantum_cacic_project.egg-info/PKG-INFO
+src/quantum_cacic_project.egg-info/SOURCES.txt
+src/quantum_cacic_project.egg-info/dependency_links.txt
+src/quantum_cacic_project.egg-info/top_level.txt
