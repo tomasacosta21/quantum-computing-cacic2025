@@ -1,0 +1,25 @@
+# --- Entornos virtuales ---
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Configuración local de Qiskit ---
+$HOME/.qiskit/
+qiskit-ibm.json
+qiskitrc
+
+# --- Archivos de credenciales / secretos ---
+*.env
+secrets.env
+secrets.json
+
+# --- Archivos temporales del sistema ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
