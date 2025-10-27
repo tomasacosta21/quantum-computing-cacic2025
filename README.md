@@ -1,6 +1,6 @@
 # Introducción a la Computación Cuántica - CACIC 2025
 
-Este repositorio contiene el contenido práctico y teórico visto durante el curso de Introducción a la Computación Cuántica y Aplicaciones Prácticas del CACIC 2025, dictado por el Dr. Andrés Alejandro Reynoso, docente de la Universidad Nacional de Río Negro - Sede Andina. Este curso fue dictado bajo el marco de la XXIX Escuela Internacional de Informática y el XXXI Congreso Argentino de Ciencias de la Computación (CACIC) 2025.
+Este repositorio contiene el contenido práctico y teórico visto durante el curso de Introducción a la Computación Cuántica y Aplicaciones Prácticas del CACIC 2025, dictado por el Dr. Andrés Alejandro Reynoso (https://github.com/systemsAR), docente de la Universidad Nacional de Río Negro - Sede Andina. Este curso fue dictado bajo el marco de la XXIX Escuela Internacional de Informática y el XXXI Congreso Argentino de Ciencias de la Computación (CACIC) 2025.
 
 ## Contenido
 
